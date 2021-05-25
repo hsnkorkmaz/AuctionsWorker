@@ -121,9 +121,9 @@
     <value>mongodb://localhost:27017/?readPreference=primary&amp;ssl=false</value>
   </data>
   <data name="wowClientId" xml:space="preserve">
-    <value>bfcbe7c2e40844c5abc421eeaacbb47a</value>
+    <value />
   </data>
   <data name="wowClientSecret" xml:space="preserve">
-    <value>1sM2IB3cZUc29WV8iVhXbNYOMR6zYrxS</value>
+    <value />
   </data>
 </root>

@@ -70,7 +70,7 @@ namespace AuctionsWorker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to bfcbe7c2e40844c5abc421eeaacbb47a.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string wowClientId {
             get {
@@ -79,7 +79,7 @@ namespace AuctionsWorker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 1sM2IB3cZUc29WV8iVhXbNYOMR6zYrxS.
+        ///   Looks up a localized string similar to .
         /// </summary>
         internal static string wowClientSecret {
             get {
