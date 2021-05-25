@@ -59,7 +59,6 @@ namespace AuctionsWorker
                 }
             }
         }
-
         private static bool CheckTime()
         {
             return DateTime.Now.Minute == 3;
